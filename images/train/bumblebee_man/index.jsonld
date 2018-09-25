@@ -1,0 +1,8 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "bumblebee_man",
+  "url": "images/train/bumblebee_man/index.jsonld",
+  "name": "bumblebee_man",
+  "images": []
+}

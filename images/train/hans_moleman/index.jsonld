@@ -1,0 +1,8 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "hans_moleman",
+  "url": "images/train/hans_moleman/index.jsonld",
+  "name": "hans_moleman",
+  "images": []
+}

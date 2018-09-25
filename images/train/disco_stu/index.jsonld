@@ -1,0 +1,17 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "disco_stu",
+  "url": "images/train/disco_stu/index.jsonld",
+  "name": "disco_stu",
+  "images": [
+    "pic_0000.jpg",
+    "pic_0001.jpg",
+    "pic_0002.jpg",
+    "pic_0003.jpg",
+    "pic_0004.jpg",
+    "pic_0005.jpg",
+    "pic_0006.jpg",
+    "pic_0007.jpg"
+  ]
+}

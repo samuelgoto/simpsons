@@ -1,0 +1,8 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "jimbo_jones",
+  "url": "images/train/jimbo_jones/index.jsonld",
+  "name": "jimbo_jones",
+  "images": []
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "helen_lovejoy",
+  "url": "images/train/helen_lovejoy/index.jsonld",
+  "name": "helen_lovejoy",
+  "images": []
+}

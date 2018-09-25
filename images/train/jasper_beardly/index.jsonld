@@ -1,0 +1,8 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "jasper_beardly",
+  "url": "images/train/jasper_beardly/index.jsonld",
+  "name": "jasper_beardly",
+  "images": []
+}

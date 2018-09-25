@@ -1,0 +1,26 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "miss_hoover",
+  "url": "images/train/miss_hoover/index.jsonld",
+  "name": "miss_hoover",
+  "images": [
+    "pic_0000.jpg",
+    "pic_0001.jpg",
+    "pic_0002.jpg",
+    "pic_0003.jpg",
+    "pic_0004.jpg",
+    "pic_0005.jpg",
+    "pic_0006.jpg",
+    "pic_0007.jpg",
+    "pic_0008.jpg",
+    "pic_0009.jpg",
+    "pic_0010.jpg",
+    "pic_0011.jpg",
+    "pic_0012.jpg",
+    "pic_0013.jpg",
+    "pic_0014.jpg",
+    "pic_0015.jpg",
+    "pic_0016.jpg"
+  ]
+}
