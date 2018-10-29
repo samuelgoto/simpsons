@@ -44,7 +44,7 @@ async function main() {
    // "url": `images/train/${dir}/${file}`
    //};
 
-   entry.images.push(`${file}`);
+   entry.images.push({"@type": "Image", "url": file});
 
    // feed.entries.push(image);
    

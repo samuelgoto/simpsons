@@ -5,8 +5,17 @@
   "url": "images/train/lionel_hutz/index.jsonld",
   "name": "lionel_hutz",
   "images": [
-    "pic_0000.jpg",
-    "pic_0001.jpg",
-    "pic_0002.jpg"
+    {
+      "@type": "Image",
+      "url": "pic_0000.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0001.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0002.jpg"
+    }
   ]
 }

@@ -5,13 +5,37 @@
   "url": "images/train/troy_mcclure/index.jsonld",
   "name": "troy_mcclure",
   "images": [
-    "pic_0000.jpg",
-    "pic_0001.jpg",
-    "pic_0002.jpg",
-    "pic_0003.jpg",
-    "pic_0004.jpg",
-    "pic_0005.jpg",
-    "pic_0006.jpg",
-    "pic_0007.jpg"
+    {
+      "@type": "Image",
+      "url": "pic_0000.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0001.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0002.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0003.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0004.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0005.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0006.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0007.jpg"
+    }
   ]
 }

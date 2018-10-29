@@ -5,133 +5,517 @@
   "url": "images/train/maggie_simpson/index.jsonld",
   "name": "maggie_simpson",
   "images": [
-    "pic_0000.jpg",
-    "pic_0001.jpg",
-    "pic_0002.jpg",
-    "pic_0003.jpg",
-    "pic_0004.jpg",
-    "pic_0005.jpg",
-    "pic_0006.jpg",
-    "pic_0007.jpg",
-    "pic_0008.jpg",
-    "pic_0009.jpg",
-    "pic_0010.jpg",
-    "pic_0011.jpg",
-    "pic_0012.jpg",
-    "pic_0013.jpg",
-    "pic_0014.jpg",
-    "pic_0015.jpg",
-    "pic_0016.jpg",
-    "pic_0017.jpg",
-    "pic_0018.jpg",
-    "pic_0019.jpg",
-    "pic_0020.jpg",
-    "pic_0021.jpg",
-    "pic_0022.jpg",
-    "pic_0023.jpg",
-    "pic_0024.jpg",
-    "pic_0025.jpg",
-    "pic_0026.jpg",
-    "pic_0027.jpg",
-    "pic_0028.jpg",
-    "pic_0029.jpg",
-    "pic_0030.jpg",
-    "pic_0031.jpg",
-    "pic_0032.jpg",
-    "pic_0033.jpg",
-    "pic_0034.jpg",
-    "pic_0035.jpg",
-    "pic_0036.jpg",
-    "pic_0037.jpg",
-    "pic_0038.jpg",
-    "pic_0039.jpg",
-    "pic_0040.jpg",
-    "pic_0041.jpg",
-    "pic_0042.jpg",
-    "pic_0043.jpg",
-    "pic_0044.jpg",
-    "pic_0045.jpg",
-    "pic_0046.jpg",
-    "pic_0047.jpg",
-    "pic_0048.jpg",
-    "pic_0049.jpg",
-    "pic_0050.jpg",
-    "pic_0051.jpg",
-    "pic_0052.jpg",
-    "pic_0053.jpg",
-    "pic_0054.jpg",
-    "pic_0055.jpg",
-    "pic_0056.jpg",
-    "pic_0057.jpg",
-    "pic_0058.jpg",
-    "pic_0059.jpg",
-    "pic_0060.jpg",
-    "pic_0061.jpg",
-    "pic_0062.jpg",
-    "pic_0063.jpg",
-    "pic_0064.jpg",
-    "pic_0065.jpg",
-    "pic_0066.jpg",
-    "pic_0067.jpg",
-    "pic_0068.jpg",
-    "pic_0069.jpg",
-    "pic_0070.jpg",
-    "pic_0071.jpg",
-    "pic_0072.jpg",
-    "pic_0073.jpg",
-    "pic_0074.jpg",
-    "pic_0075.jpg",
-    "pic_0076.jpg",
-    "pic_0077.jpg",
-    "pic_0078.jpg",
-    "pic_0079.jpg",
-    "pic_0080.jpg",
-    "pic_0081.jpg",
-    "pic_0082.jpg",
-    "pic_0083.jpg",
-    "pic_0084.jpg",
-    "pic_0085.jpg",
-    "pic_0086.jpg",
-    "pic_0087.jpg",
-    "pic_0088.jpg",
-    "pic_0089.jpg",
-    "pic_0090.jpg",
-    "pic_0091.jpg",
-    "pic_0092.jpg",
-    "pic_0093.jpg",
-    "pic_0094.jpg",
-    "pic_0095.jpg",
-    "pic_0096.jpg",
-    "pic_0097.jpg",
-    "pic_0098.jpg",
-    "pic_0099.jpg",
-    "pic_0100.jpg",
-    "pic_0101.jpg",
-    "pic_0102.jpg",
-    "pic_0103.jpg",
-    "pic_0104.jpg",
-    "pic_0105.jpg",
-    "pic_0106.jpg",
-    "pic_0107.jpg",
-    "pic_0108.jpg",
-    "pic_0109.jpg",
-    "pic_0110.jpg",
-    "pic_0111.jpg",
-    "pic_0112.jpg",
-    "pic_0113.jpg",
-    "pic_0114.jpg",
-    "pic_0115.jpg",
-    "pic_0116.jpg",
-    "pic_0117.jpg",
-    "pic_0118.jpg",
-    "pic_0119.jpg",
-    "pic_0120.jpg",
-    "pic_0121.jpg",
-    "pic_0122.jpg",
-    "pic_0123.jpg",
-    "pic_0124.jpg",
-    "pic_0125.jpg",
-    "pic_0126.jpg",
-    "pic_0127.jpg"
+    {
+      "@type": "Image",
+      "url": "pic_0000.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0001.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0002.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0003.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0004.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0005.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0006.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0007.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0008.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0009.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0010.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0011.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0012.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0013.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0014.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0015.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0016.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0017.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0018.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0019.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0020.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0021.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0022.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0023.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0024.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0025.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0026.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0027.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0028.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0029.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0030.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0031.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0032.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0033.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0034.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0035.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0036.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0037.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0038.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0039.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0040.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0041.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0042.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0043.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0044.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0045.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0046.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0047.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0048.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0049.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0050.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0051.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0052.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0053.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0054.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0055.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0056.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0057.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0058.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0059.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0060.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0061.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0062.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0063.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0064.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0065.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0066.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0067.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0068.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0069.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0070.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0071.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0072.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0073.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0074.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0075.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0076.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0077.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0078.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0079.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0080.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0081.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0082.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0083.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0084.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0085.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0086.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0087.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0088.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0089.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0090.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0091.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0092.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0093.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0094.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0095.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0096.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0097.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0098.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0099.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0100.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0101.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0102.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0103.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0104.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0105.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0106.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0107.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0108.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0109.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0110.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0111.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0112.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0113.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0114.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0115.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0116.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0117.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0118.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0119.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0120.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0121.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0122.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0123.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0124.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0125.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0126.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0127.jpg"
+    }
   ]
 }

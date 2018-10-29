@@ -5,77 +5,293 @@
   "url": "images/train/patty_bouvier/index.jsonld",
   "name": "patty_bouvier",
   "images": [
-    "pic_0000.jpg",
-    "pic_0001.jpg",
-    "pic_0002.jpg",
-    "pic_0003.jpg",
-    "pic_0004.jpg",
-    "pic_0005.jpg",
-    "pic_0006.jpg",
-    "pic_0007.jpg",
-    "pic_0008.jpg",
-    "pic_0009.jpg",
-    "pic_0010.jpg",
-    "pic_0011.jpg",
-    "pic_0012.jpg",
-    "pic_0013.jpg",
-    "pic_0014.jpg",
-    "pic_0015.jpg",
-    "pic_0016.jpg",
-    "pic_0017.jpg",
-    "pic_0018.jpg",
-    "pic_0019.jpg",
-    "pic_0020.jpg",
-    "pic_0021.jpg",
-    "pic_0022.jpg",
-    "pic_0023.jpg",
-    "pic_0024.jpg",
-    "pic_0025.jpg",
-    "pic_0026.jpg",
-    "pic_0027.jpg",
-    "pic_0028.jpg",
-    "pic_0029.jpg",
-    "pic_0030.jpg",
-    "pic_0031.jpg",
-    "pic_0032.jpg",
-    "pic_0033.jpg",
-    "pic_0034.jpg",
-    "pic_0035.jpg",
-    "pic_0036.jpg",
-    "pic_0037.jpg",
-    "pic_0038.jpg",
-    "pic_0039.jpg",
-    "pic_0040.jpg",
-    "pic_0041.jpg",
-    "pic_0042.jpg",
-    "pic_0043.jpg",
-    "pic_0044.jpg",
-    "pic_0045.jpg",
-    "pic_0046.jpg",
-    "pic_0047.jpg",
-    "pic_0048.jpg",
-    "pic_0049.jpg",
-    "pic_0050.jpg",
-    "pic_0051.jpg",
-    "pic_0052.jpg",
-    "pic_0053.jpg",
-    "pic_0054.jpg",
-    "pic_0055.jpg",
-    "pic_0056.jpg",
-    "pic_0057.jpg",
-    "pic_0058.jpg",
-    "pic_0059.jpg",
-    "pic_0060.jpg",
-    "pic_0061.jpg",
-    "pic_0062.jpg",
-    "pic_0063.jpg",
-    "pic_0064.jpg",
-    "pic_0065.jpg",
-    "pic_0066.jpg",
-    "pic_0067.jpg",
-    "pic_0068.jpg",
-    "pic_0069.jpg",
-    "pic_0070.jpg",
-    "pic_0071.jpg"
+    {
+      "@type": "Image",
+      "url": "pic_0000.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0001.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0002.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0003.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0004.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0005.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0006.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0007.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0008.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0009.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0010.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0011.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0012.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0013.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0014.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0015.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0016.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0017.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0018.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0019.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0020.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0021.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0022.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0023.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0024.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0025.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0026.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0027.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0028.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0029.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0030.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0031.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0032.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0033.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0034.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0035.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0036.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0037.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0038.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0039.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0040.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0041.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0042.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0043.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0044.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0045.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0046.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0047.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0048.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0049.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0050.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0051.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0052.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0053.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0054.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0055.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0056.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0057.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0058.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0059.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0060.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0061.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0062.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0063.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0064.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0065.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0066.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0067.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0068.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0069.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0070.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "pic_0071.jpg"
+    }
   ]
 }
