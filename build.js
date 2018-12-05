@@ -7,7 +7,7 @@ async function main() {
   "@context": "https://code.sgo.to/datasets",
   "@type": "Dataset",
   "name": "Kaggle's simpsons characters dataset in JSON-LD",
-  "download": "https://github.com/samuelgoto/simpsons/releases/download/untagged-fc23aa8483f14d49beb3/simpsons.tar.gz",
+  "download": "https://github.com/samuelgoto/simpsons/releases/download/v0.0.1/simpsons.tar.gz",
   "classes": []
  };
  for (let dir of dirs) {
